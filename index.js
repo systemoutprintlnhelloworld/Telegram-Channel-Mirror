@@ -1,7 +1,7 @@
 // Custom pathname for the upstream website.
-const channel_name = 'idealcloverchannel'
-const host_name = 'tg.idealclover.workers.dev'
-const icon_url = 'https://image.idealclover.cn/blog/assets/icon.png'
+const channel_name = 'embypub'
+const host_name = 'tggroup-mirror.2581353900.workers.dev'
+const icon_url = ''
 
 const upstream_me = 't.me'
 const upstream_org = 'telegram.org'
